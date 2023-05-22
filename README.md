@@ -1,7 +1,7 @@
 # **<--- MCS --->**
 ## Movie Classifier System
 
-### O que é?
+## O que é?
 
 Este programa serve para classificar filmes e consultar a média das suas classificações.
 
@@ -15,7 +15,7 @@ Ao finalizarmos a classificação podemos retornar ao início ou sair do program
 
 Se escolhermos classificar poderemos aceder às classificações médias de cada filme.
 
-### Principais dificuldades
+## Principais dificuldades
 
 - Quais os elementos a utilizar para o desenvolvimento dos processos.
 - Percorrer os elementos dos arrays.
