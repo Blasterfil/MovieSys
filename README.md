@@ -3,7 +3,7 @@
 
 ### O que é?
 
-[^2]:Este programa serve para classificar filmes e consultar a média das suas classificações.
+[^2]:  Este programa serve para classificar filmes e consultar a média das suas classificações.
 Quando o programa inicia temos um menu que nos permite escolher se queremos classificar ou consultar a média das classificações dos filmes ou ainda sair do programa.
 O programa quando inicia não tem nenhum filme classificado.
 Se escolhermos classificar podemos ver o Título e a Sinopse de cada filme para podermos proceder à avaliação de 1 a 5.
