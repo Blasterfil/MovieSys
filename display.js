@@ -11,6 +11,7 @@ function msgInicial(inicio){
     console.log("\n    Bem vindo ao Movie Classification System!\n")
 }
 
+//Recebe as classificações numéricas e retorna estrelas
 function numToStar(classnumber){
     if(classnumber == 1){
         classnumber = "*"
